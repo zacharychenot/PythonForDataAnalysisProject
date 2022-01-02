@@ -1,4 +1,4 @@
-# Final Project : Python for Data Analysis - 
+# Final Project : Python for Data Analysis 
 ## Estimation of obesity levels based on eating habits and physical condition Data Set
 ### _Thomas CULINO & Zachary CHENOT_
 
