@@ -10,7 +10,10 @@
 
 ## How to display our project
 All you have to do is to launch the code on spyder or any python launcher, then access to this address :
-http://localhost:5000/Height=/183/Weight=/73
+
+<span style="color:red">some **This is Red Bold.** text</span>
+
+http://localhost:5000/Height=/xxx/Weight=/xx
 And change the red values to get the predictions of our model. 
 
 ## Project Overview
