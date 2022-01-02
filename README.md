@@ -12,7 +12,7 @@ All you have to do is to launch the code on spyder or any python launcher, then 
 
 
 http://localhost:5000/Height=/xxx/Weight=/xxx
-And change the xxx values to get the predictions of our model. 
+and change the xxx values to get the predictions of our model. 
 
 ![python](https://user-images.githubusercontent.com/96337476/147890574-9a1951e6-ac20-4783-ae41-29eb3e7ebf7b.JPG)
 
