@@ -13,7 +13,7 @@ All you have to do is to launch the code on spyder or any python launcher, then 
 
 
 
-http://localhost:5000/Height=/<span style="color:red">some **xxx** text</span>/Weight=/<span style="color:red">some **xxx** text</span>
+http://localhost:5000/Height=/<span>**xxx**</span>/Weight=/<span>**xxx**</span>
 And change the red values to get the predictions of our model. 
 
 ## Project Overview
