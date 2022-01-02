@@ -21,6 +21,3 @@ And change the xxx values to get the predictions of our model.
 ## Project Overview
 
 
-
-## What Monopoly functionalities we have implemented
-
