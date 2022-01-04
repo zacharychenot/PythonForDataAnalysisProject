@@ -11,7 +11,7 @@ With this files you can also find our notebook where we analysed the data and te
 
 ## How to use our project on Flask
 Before lauching the code you need to download the database and our python code. Then you have to put the data file and the python code in the same folder.
-Otherwise, you must change the path to access the database file.
+Otherwise, you must write the path to access the database file.
 
 ![changementchemin](https://user-images.githubusercontent.com/96337476/148062201-aa6452fa-d2be-46c1-96af-4ef8d7518dfe.JPG)
 
