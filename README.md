@@ -10,12 +10,16 @@ With this files you can also find our notebook where we analysed the data and te
 
 
 ## How to use our project on Flask
-All you have to do is to launch the code on spyder or any python launcher, then access to this address :
+Before lauching the code you need to download the database and our python code. Then you have to put the data file and the python code in the same folder.
+Otherwise, you must change the path to access the database file.
+
+![changementchemin](https://user-images.githubusercontent.com/96337476/148062201-aa6452fa-d2be-46c1-96af-4ef8d7518dfe.JPG)
 
 
+Then, all you have to do is to launch the code on spyder or any python launcher, then access to this address on your browser :
 
 http://localhost:5000/Height=/xxx/Weight=/xxx
-and change the xxx values to get the predictions of our model. 
+and change the xxx values corresponding to your height and weight to get the predictions of our model. 
 
 ![python](https://user-images.githubusercontent.com/96337476/147890574-9a1951e6-ac20-4783-ae41-29eb3e7ebf7b.JPG)
 
