@@ -16,7 +16,12 @@ Otherwise, you must change the path to access the database file.
 ![changementchemin](https://user-images.githubusercontent.com/96337476/148062201-aa6452fa-d2be-46c1-96af-4ef8d7518dfe.JPG)
 
 
-Then, all you have to do is to launch the code on spyder or any python launcher, then access to this address on your browser :
+Then, you have to launch the code. you should get something like this in the console : 
+
+![Rntime](https://user-images.githubusercontent.com/96337476/148062761-650f4cb8-beca-4ecf-aafa-0c4a871bfd0e.JPG)
+
+
+Then all you have to do is access to this address on your browser :
 
 http://localhost:5000/Height=/xxx/Weight=/xxx
 and change the xxx values corresponding to your height and weight to get the predictions of our model. 
