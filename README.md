@@ -8,9 +8,6 @@ For our Final Project we have been given a dataset that includes data for the es
 
 With this files you can also find our notebook where we analysed the data and tested our models. You can also find the dataset and the code to use Flask.
 
-## **SUMMARY**
-
-- [How to use our project on Flask](#display-project)
 
 ## How to use our project on Flask
 All you have to do is to launch the code on spyder or any python launcher, then access to this address :
