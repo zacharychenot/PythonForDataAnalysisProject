@@ -29,6 +29,10 @@ and change the xxx values corresponding to your height and weight to get the pre
 ![python](https://user-images.githubusercontent.com/96337476/147890574-9a1951e6-ac20-4783-ae41-29eb3e7ebf7b.JPG)
 
 
+# PS : Sunburst graph.
+Here is an interactive graph we made. In case it doesn't work on the jupyter, put it here.
+
+![sunburst](https://user-images.githubusercontent.com/96337476/148114191-aaae90d4-7ccd-46fc-a94c-903db333ba56.png)
 
 
 
